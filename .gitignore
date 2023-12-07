@@ -1,0 +1,9 @@
+### Pip
+pyproject.toml
+dist/
+
+### Python
+**/__pycache__/
+
+### Development tools
+.idea
